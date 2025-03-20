@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Origin_itm_CodeSea</name>
+   <tag></tag>
+   <elementGuidId>5a485c17-ffbf-4da5-bb17-a17996bfc0f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nz-option-item[contains(@title,'${OriginProvince}')]//div[@class='vela-select-multiple__option-overlay']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.vela-select-multiple__option-item.ng-star-inserted.vela-select-multiple__option-item--selected > div.vela-select-multiple__option-overlay</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>nz-option-item >> internal:has-text=&quot;AUBNE - Brisbane - Queensland&quot;i >> div >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>60b17422-4618-4483-943b-8cf4d58ec161</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vela-select-multiple__option-overlay</value>
+      <webElementGuid>db64c481-de55-48b6-a638-107634052067</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-4&quot;)/nz-option-container[@class=&quot;ant-select-dropdown ng-tns-c69490912-161 ant-select-dropdown-placement-bottomLeft ng-trigger ng-trigger-slideMotion ng-star-inserted&quot;]/div[1]/cdk-virtual-scroll-viewport[@class=&quot;cdk-virtual-scroll-viewport cdk-virtual-scrollable cdk-virtual-scroll-orientation-vertical&quot;]/div[@class=&quot;cdk-virtual-scroll-content-wrapper&quot;]/nz-option-item[@class=&quot;ant-select-item ant-select-item-option ng-star-inserted ant-select-item-option-active ant-select-item-option-selected&quot;]/div[@class=&quot;ant-select-item-option-content&quot;]/div[@class=&quot;vela-select-multiple__option-item ng-star-inserted vela-select-multiple__option-item--selected&quot;]/div[@class=&quot;vela-select-multiple__option-overlay&quot;]</value>
+      <webElementGuid>4e5a6b56-8d96-4309-aba9-3a6ad5036602</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-4']/nz-option-container/div/cdk-virtual-scroll-viewport/div/nz-option-item[2]/div/div/div</value>
+      <webElementGuid>552728b4-0a68-4cf8-a5c2-58ab00c5827a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nz-option-item[2]/div/div/div</value>
+      <webElementGuid>94caefdf-6611-406b-8537-989191f2763d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CreateRFI_PopupCreateRFI_rdoScopeOfServiceFM</name>
+   <tag></tag>
+   <elementGuidId>87837bde-c23c-4322-a2de-33b2633ae206</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[normalize-space()='${ScopeOfService}']//input[@type='checkbox']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>54b31f6c-454f-4d89-8b28-051e2b729b85</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

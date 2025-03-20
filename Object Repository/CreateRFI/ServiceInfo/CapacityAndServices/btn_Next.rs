@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Next</name>
+   <tag></tag>
+   <elementGuidId>2888ca0e-eeda-423b-b83d-03454a60ee48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = ' Next' or . = ' Next')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Save Draft'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-col.ant-btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Next&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bc9f4960-deb4-4d7f-a322-39b745687f76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>nztype</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>7f9f04ba-f0a7-4a98-8c96-6cf5d569b0cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-col ant-btn-primary</value>
+      <webElementGuid>e72967b4-ccc1-4216-af35-fc3aaec90122</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-nz-type</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>29aa89f5-79ea-4fda-92d2-2f3c2202e456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Next</value>
+      <webElementGuid>4dc8055d-8502-4ee7-a3f4-5cbdff98cf7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/nz-layout[@class=&quot;ant-layout layout&quot;]/nz-content[@class=&quot;outer-content ant-layout-content ng-star-inserted&quot;]/div[@class=&quot;inner-content&quot;]/app-rfi-create[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-create&quot;]/div[@class=&quot;steps-action&quot;]/div[@class=&quot;ant-row inner-steps-action ant-row-space-between&quot;]/div[@class=&quot;ant-col&quot;]/div[@class=&quot;ant-row group-button ant-row-middle ant-row-space-around&quot;]/button[@class=&quot;ant-btn ant-col ant-btn-primary&quot;]</value>
+      <webElementGuid>f29733ff-fc37-4f06-bcb2-a90edc7c4beb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save Draft'])[1]/following::button[1]</value>
+      <webElementGuid>a6d2f9e9-7557-4242-a489-046aea76649d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[2]</value>
+      <webElementGuid>52a76ea6-841f-402f-b52e-b4dcdb55439b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/preceding::button[1]</value>
+      <webElementGuid>b4e17cd7-f2c6-4490-aa64-4301beb8286f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button[2]</value>
+      <webElementGuid>866aed53-ae91-4174-92e6-de146e24527d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Next' or . = ' Next')]</value>
+      <webElementGuid>e4e7ddfc-e2bc-47f4-ac46-4bca2a397611</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

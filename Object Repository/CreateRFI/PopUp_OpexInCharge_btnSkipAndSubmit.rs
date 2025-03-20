@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PopUp_OpexInCharge_btnSkipAndSubmit</name>
+   <tag></tag>
+   <elementGuidId>588fc708-b63e-4476-b32d-98225baf6b3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-15']/nz-modal-container/div/div/div[2]/div/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-row.group-button.ant-row-middle.ant-row-space-around.ng-star-inserted > div.ant-col > button.ant-btn.ant-btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Skip &amp; Submit&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>35bb65cd-d0b0-497b-aae0-958001341032</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>nztype</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>b16b4543-cdce-4df3-9665-8ab3618fd7aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-primary</value>
+      <webElementGuid>ce7b8d6a-578e-4669-8f4c-4daf6c97bb33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-nz-type</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>b2bc969b-767d-493b-be96-96ed8128ecd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Skip &amp; Submit </value>
+      <webElementGuid>2945e019-ba66-4e04-9197-04d02c3a92ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-15&quot;)/nz-modal-container[@class=&quot;ng-tns-c2582198243-482 ng-trigger ng-trigger-modalContainer ng-star-inserted ant-modal-wrap ant-modal-centered&quot;]/div[@class=&quot;ant-modal ng-tns-c2582198243-482&quot;]/div[@class=&quot;ant-modal-content ng-tns-c2582198243-482&quot;]/div[@class=&quot;ant-modal-footer ng-tns-c2582198243-482 ng-star-inserted&quot;]/div[@class=&quot;ant-row group-button ant-row-middle ant-row-space-around ng-star-inserted&quot;]/div[@class=&quot;ant-col&quot;]/button[@class=&quot;ant-btn ant-btn-primary&quot;]</value>
+      <webElementGuid>87d0cc67-736d-4c6c-b1d9-286c3d9307b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-15']/nz-modal-container/div/div/div[2]/div/div[2]/button</value>
+      <webElementGuid>3bd2487b-69ea-4c83-a996-44d835c29b16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[3]/following::button[1]</value>
+      <webElementGuid>92236390-ddcb-4d57-a7ad-2a0da8d194e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cannot edit'])[1]/following::button[2]</value>
+      <webElementGuid>257b5c3d-5f97-4415-bd8b-710f15746507</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/button</value>
+      <webElementGuid>721eb5dd-007c-4417-9c3a-804e2b2fb5c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Skip &amp; Submit ' or . = ' Skip &amp; Submit ')]</value>
+      <webElementGuid>211d33c1-9cd1-4636-a737-74c361825f19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

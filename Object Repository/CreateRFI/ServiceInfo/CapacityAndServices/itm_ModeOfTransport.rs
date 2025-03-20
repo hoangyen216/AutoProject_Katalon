@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>itm_ModeOfTransport</name>
+   <tag></tag>
+   <elementGuidId>19fc8fc0-629e-4679-9b51-b5d63c51dc91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nz-select-item.ant-select-selection-item.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='ant-select-item-option-content'][text()='${ModeOfTransport}']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@title = 'Sea FCL' and (text() = 'Sea FCL' or . = 'Sea FCL')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Sea FCL&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nz-select-item</value>
+      <webElementGuid>5ba0dd26-fbaf-4e22-903f-4ede27f6ed61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection-item ng-star-inserted</value>
+      <webElementGuid>cba3fd8f-4942-47fe-a6da-966995244566</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-deletable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>87e7af6b-83b2-48dd-bf3f-ae14f5aa4614</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>643eaf68-fda3-4eda-bacc-9648bfaee428</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-label</name>
+      <type>Main</type>
+      <value>Sea FCL</value>
+      <webElementGuid>47dd1435-b8fe-4e4f-9f43-0c4858621408</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-content-template-outlet-context</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>9a920e84-a57c-42b5-9c8b-c64bd36501f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Sea FCL</value>
+      <webElementGuid>596f8e11-919f-40ed-97c3-19bbc1d5ec12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sea FCL</value>
+      <webElementGuid>17b0f6a7-e243-4e0a-af13-6a9298e46d06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/nz-layout[@class=&quot;ant-layout layout&quot;]/nz-content[@class=&quot;outer-content ant-layout-content ng-star-inserted&quot;]/div[@class=&quot;inner-content&quot;]/app-rfi-create[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-create&quot;]/div[@class=&quot;steps-content no-bg&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;step-abs&quot;]/nz-tabset[@class=&quot;ant-tabs full-tab ant-tabs-top ant-tabs-default&quot;]/div[@class=&quot;ant-tabs-content-holder&quot;]/div[@class=&quot;ant-tabs-content ant-tabs-content-top ant-tabs-content-animated&quot;]/div[@class=&quot;ant-tabs-tabpane ant-tabs-tabpane-active ng-star-inserted&quot;]/app-capacity-services[@class=&quot;ng-star-inserted&quot;]/nz-tabset[@class=&quot;ant-tabs tab-service ant-tabs-left ant-tabs-default&quot;]/div[@class=&quot;ant-tabs-content-holder&quot;]/div[@class=&quot;ant-tabs-content ant-tabs-content-left&quot;]/div[@class=&quot;ant-tabs-tabpane ant-tabs-tabpane-active ng-star-inserted&quot;]/form[@class=&quot;ng-star-inserted ng-invalid ng-touched ng-dirty&quot;]/nz-collapse[@class=&quot;ant-collapse ant-collapse-icon-position-left&quot;]/nz-collapse-panel[@class=&quot;ant-collapse-item ng-tns-c4187469874-261 ant-collapse-item-active ng-invalid ng-star-inserted ng-touched ng-dirty&quot;]/div[@class=&quot;ant-collapse-content ng-tns-c4187469874-261 ant-collapse-content-active ng-trigger ng-trigger-collapseMotion&quot;]/div[@class=&quot;ant-collapse-content-box ng-tns-c4187469874-261&quot;]/div[@class=&quot;ant-row ng-tns-c4187469874-261 ant-row-space-between&quot;]/div[@class=&quot;ant-col ant-col-12&quot;]/nz-form-item[@class=&quot;ant-form-item ant-row ant-form-item-has-success&quot;]/nz-form-control[@class=&quot;ant-form-item-control ng-tns-c630436078-262 ant-col ant-col-24 ng-star-inserted&quot;]/div[@class=&quot;ant-form-item-control-input ng-tns-c630436078-262&quot;]/div[@class=&quot;ant-form-item-control-input-content ng-tns-c630436078-262&quot;]/nz-select[@class=&quot;ant-select ng-tns-c69490912-263 ng-tns-c630436078-262 ant-select-in-form-item ant-select-show-arrow ant-select-allow-clear ant-select-single ng-star-inserted ng-touched ant-select-status-success ng-dirty ng-valid&quot;]/nz-select-top-control[@class=&quot;ant-select-selector ng-tns-c69490912-263&quot;]/nz-select-item[@class=&quot;ant-select-selection-item ng-star-inserted&quot;]</value>
+      <webElementGuid>800e57af-a44f-4a72-bd60-b1833b3bab34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mode of Transports'])[1]/following::nz-select-item[1]</value>
+      <webElementGuid>de98e0bd-19c2-4ce6-b03e-c3e7f77252d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rail'])[1]/following::nz-select-item[1]</value>
+      <webElementGuid>5b1ccba1-618e-44b9-9df7-0c090a72fc3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Type'])[1]/preceding::nz-select-item[1]</value>
+      <webElementGuid>71a4680d-d968-4108-8c9d-3a54dbe71ffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[1]/preceding::nz-select-item[1]</value>
+      <webElementGuid>9d38d118-011e-47f2-9570-91cc845ef310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nz-select-item</value>
+      <webElementGuid>048e0cae-8266-49de-bcf1-b391db4fa0db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nz-select-item[@title = 'Sea FCL' and (text() = 'Sea FCL' or . = 'Sea FCL')]</value>
+      <webElementGuid>9237d663-9d22-4e9b-b661-35cd210d15ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

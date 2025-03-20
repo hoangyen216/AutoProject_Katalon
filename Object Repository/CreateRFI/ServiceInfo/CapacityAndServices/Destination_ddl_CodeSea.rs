@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Destination_ddl_CodeSea</name>
+   <tag></tag>
+   <elementGuidId>7bd298a8-98bd-46d1-8796-d74bc321f656</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='ant-row ant-row-space-between']//div[@class='ant-col ant-col-12 ng-star-inserted'][2]//nz-select-top-control[ .//*[contains(normalize-space(),'Select Code - Seaport')]]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>nz-select-top-control.ant-select-selector.ng-tns-c69490912-164</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '  Select Code - Seaport - Province ' or . = '  Select Code - Seaport - Province ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>nz-select-top-control >> internal:has-text=&quot;Select Code - Seaport - Province&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2e050b86-5c01-48cf-84ff-dbaf32ebecd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selector ng-tns-c69490912-164</value>
+      <webElementGuid>c4f6bdca-1bac-42ad-ab20-fd10baeeff68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-open</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>5e1b299f-df77-43e9-a711-8fd20268f27d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>b7aac590-1ab5-4065-8cf7-754a6348f8e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-mode</name>
+      <type>Main</type>
+      <value>multiple</value>
+      <webElementGuid>f30fae3b-f52a-42c8-951d-c704c07a8e4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-max-tag-placeholder</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>06821cb8-6d18-4e35-9ec5-06aafc0a59c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-remove-icon</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>0d808512-49ff-4a47-891f-550d85bd7948</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-place-holder</name>
+      <type>Main</type>
+      <value>Select Code - Seaport - Provin</value>
+      <webElementGuid>e0fb72e8-4043-4ba8-9b1c-9a47cf0b0fa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-max-tag-count</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>6444df2c-ef68-4c1b-a162-9a9ada7a3976</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-custom-template</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>a6701d7b-90f9-4e8c-a5d1-1d910cebd275</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-show-search</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>de4b8bf4-d6f8-48db-a1dd-80cdb388bcaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-autofocus</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>770b1e9a-72e5-4408-9cf2-490d92f7537b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Select Code - Seaport - Province </value>
+      <webElementGuid>2ad03391-fc88-4e90-a987-5e431720e82c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/nz-layout[@class=&quot;ant-layout layout&quot;]/nz-content[@class=&quot;outer-content ant-layout-content ng-star-inserted&quot;]/div[@class=&quot;inner-content&quot;]/app-rfi-create[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-create&quot;]/div[@class=&quot;steps-content no-bg&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;step-abs&quot;]/nz-tabset[@class=&quot;ant-tabs full-tab ant-tabs-top ant-tabs-default&quot;]/div[@class=&quot;ant-tabs-content-holder&quot;]/div[@class=&quot;ant-tabs-content ant-tabs-content-top ant-tabs-content-animated&quot;]/div[@class=&quot;ant-tabs-tabpane ant-tabs-tabpane-active ng-star-inserted&quot;]/app-capacity-services[@class=&quot;ng-star-inserted&quot;]/nz-tabset[@class=&quot;ant-tabs tab-service ant-tabs-left ant-tabs-default&quot;]/div[@class=&quot;ant-tabs-content-holder&quot;]/div[@class=&quot;ant-tabs-content ant-tabs-content-left&quot;]/div[@class=&quot;ant-tabs-tabpane ant-tabs-tabpane-active ng-star-inserted&quot;]/form[@class=&quot;ng-star-inserted ng-invalid ng-touched ng-dirty&quot;]/nz-collapse[@class=&quot;ant-collapse ant-collapse-icon-position-left&quot;]/nz-collapse-panel[@class=&quot;ant-collapse-item ng-tns-c4187469874-139 ant-collapse-item-active ng-invalid ng-star-inserted ng-touched ng-dirty&quot;]/div[@class=&quot;ant-collapse-content ng-tns-c4187469874-139 ant-collapse-content-active ng-trigger ng-trigger-collapseMotion&quot;]/div[@class=&quot;ant-collapse-content-box ng-tns-c4187469874-139&quot;]/div[@class=&quot;bg-table ng-tns-c4187469874-139&quot;]/div[@class=&quot;ant-row ant-row-space-between&quot;]/div[@class=&quot;ant-col ant-col-12 ng-star-inserted&quot;]/nz-form-item[@class=&quot;ant-form-item ant-row&quot;]/nz-form-control[@class=&quot;ant-form-item-control ng-tns-c630436078-163 ant-col ant-col-24 ng-star-inserted&quot;]/div[@class=&quot;ant-form-item-control-input ng-tns-c630436078-163&quot;]/div[@class=&quot;ant-form-item-control-input-content ng-tns-c630436078-163&quot;]/vela-select-multiple[@class=&quot;ng-tns-c630436078-163 ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;vela-select-multiple&quot;]/nz-select[@class=&quot;ant-select ng-tns-c69490912-164 ant-select-in-form-item ant-select-show-arrow ant-select-show-search ant-select-allow-clear ant-select-multiple ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/nz-select-top-control[@class=&quot;ant-select-selector ng-tns-c69490912-164&quot;]</value>
+      <webElementGuid>1cd71877-b7e7-4882-946a-3df934aceeee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Code - Seaport - Province'])[1]/following::nz-select-top-control[1]</value>
+      <webElementGuid>33606196-8a79-482e-8466-ba06c2b0b722</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[2]/following::nz-select-top-control[1]</value>
+      <webElementGuid>64501617-68e0-4b09-a67b-ee28456ae3c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Map Routing'])[1]/preceding::nz-select-top-control[1]</value>
+      <webElementGuid>8cbb8e92-2d05-489f-b0ed-883207754cd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/nz-form-item[2]/nz-form-control/div/div/vela-select-multiple/div/nz-select/nz-select-top-control</value>
+      <webElementGuid>34a50d0d-749b-4bee-9538-0418b2557e9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nz-select-top-control[(text() = '  Select Code - Seaport - Province ' or . = '  Select Code - Seaport - Province ')]</value>
+      <webElementGuid>4b1aa6c2-1f30-4136-88d7-120d1731ab82</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,3 +1,154 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CreateRFI/PopupCreateRFI/CreateRFI_PopupCreateRFI_btnNext",
+      "brokenLocator": "//div[@id\u003d\u0027cdk-overlay-3\u0027]/nz-modal-container/div/div/div[3]/div/div/button[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Cancel\u0027])[2]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CreateRFI/PopupCreateRFI/CreateRFI_PopupCreateRFI_btnNext_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CreateRFI/ServiceInfo/CapacityAndService/CreateRFI_ServiceInfo_itmModeOfTransport_Sea FCL",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Mode of Transports\u0027])[1]/following::nz-select-item[1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*[@title \u003d \u0027Sea FCL\u0027 and (text() \u003d \u0027Sea FCL\u0027 or . \u003d \u0027Sea FCL\u0027)]",
+      "proposedLocatorMethod": "BASIC",
+      "recoveryMethod": "BASIC",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CreateRFI/ServiceInfo/CapacityAndService/CreateRFI_ServiceInfo_itmModeOfTransport_Sea FCL_BASIC.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CreateRFI/ServiceInfo/CapacityAndServices/itmModeOfTransport_Sea FCL",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Mode of Transports\u0027])[1]/following::nz-select-item[1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*[@title \u003d \u0027Sea FCL\u0027 and (text() \u003d \u0027Sea FCL\u0027 or . \u003d \u0027Sea FCL\u0027)]",
+      "proposedLocatorMethod": "BASIC",
+      "recoveryMethod": "BASIC",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CreateRFI/ServiceInfo/CapacityAndServices/itmModeOfTransport_Sea FCL_BASIC.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CreateRFI/ServiceInfo/CapacityAndServices/CreateRFI_ServieInfo_CapacityAndServices_ddlModeOfTransport",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "/html/body/app-root/nz-layout/nz-content/div/app-rfi-create/div/div[2]/div/div/nz-tabset/div/div/div[1]/app-capacity-services/nz-tabset/div/div/div[1]/form/nz-collapse/nz-collapse-panel/div[2]/div/div[1]/div[1]/nz-form-item/nz-form-control\r\n",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CreateRFI/ServiceInfo/CapacityAndServices/CreateRFI_ServieInfo_CapacityAndServices_ddlModeOfTransport_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CreateRFI/ServiceInfo/CapacityAndServices/CreateRFI_ServiceInfo_CapacityAndServices _Origin_ddlCountry",
+      "brokenLocator": "//*[@class \u003d \u0027ant-select ng-tns-c69490912-159 ng-tns-c630436078-158 ant-select-in-form-item ant-select-show-arrow ant-select-show-search ant-select-single ng-pristine ng-invalid ng-star-inserted ng-touched\u0027 and (text() \u003d \u0027 Select Origin Country \u0027 or . \u003d \u0027 Select Origin Country \u0027)]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Country\u0027])[1]/following::nz-select[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CreateRFI/ServiceInfo/CapacityAndServices/CreateRFI_ServiceInfo_CapacityAndServices _Origin_ddlCountry_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CreateRFI/ServiceInfo/CapacityAndServices/Origin_itmCountry_Australia",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Country\u0027])[1]/following::nz-select-item[1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Code - Seaport - State\u0027])[1]/preceding::nz-select-item[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CreateRFI/ServiceInfo/CapacityAndServices/Origin_itmCountry_Australia_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CreateRFI/ServiceInfo/CapacityAndServices/itmModeOfTransport",
+      "brokenLocator": "//div[@class\u003d\u0027ant-select-item-option-content\u0027][text()\u003d\u0027Sea FCL\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Mode of Transports\u0027])[1]/following::nz-select-item[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CreateRFI/ServiceInfo/CapacityAndServices/itmModeOfTransport_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CreateRFI/ServiceInfo/CapacityAndServices/rdoServiceType",
+      "brokenLocator": "//label[contains(., \u0027Export\u0027)]//span[@class\u003d\u0027ant-radio\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(//input[@name\u003d\u0027showBoxScope\u0027])[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CreateRFI/ServiceInfo/CapacityAndServices/rdoServiceType_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CreateRFI/ServiceInfo/CapacityAndServices/Origin_itmCodeSeaPortState",
+      "brokenLocator": "//div[@id\u003d\u0027cdk-overlay-4\u0027]/nz-option-container/div/cdk-virtual-scroll-viewport/div/nz-option-item[2]/div/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//nz-option-item[2]/div/div/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CreateRFI/ServiceInfo/CapacityAndServices/Origin_itmCodeSeaPortState_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CreateRFI/ServiceInfo/CapacityAndServices/Destination_ddlCountry",
+      "brokenLocator": "//*[(text() \u003d \u0027Việt Nam\u0027 or . \u003d \u0027Việt Nam\u0027)]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Country\u0027])[2]/following::nz-form-control[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CreateRFI/ServiceInfo/CapacityAndServices/Destination_ddlCountry_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CreateRFI/PopUp_OpexInCharge_btnSkipAndSubmit",
+      "brokenLocator": "//div[@id\u003d\u0027cdk-overlay-15\u0027]/nz-modal-container/div/div/div[2]/div/div[2]/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Cancel\u0027])[3]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CreateRFI/PopUp_OpexInCharge_btnSkipAndSubmit_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CreateRFI/PopUp_Successfull_btnOK",
+      "brokenLocator": "//div[@id\u003d\u0027cdk-overlay-17\u0027]/nz-modal-container/div/div/div[3]/button[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Cancel\u0027])[3]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CreateRFI/PopUp_Successfull_btnOK_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CreateRFI/ServiceInfo/CapacityAndServices/Origin_itm_Country",
+      "brokenLocator": "//div[@class\u003d\u0027ant-select-item-option-content\u0027][normalize-space()\u003d\u0027${OriginCountry}\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Code - Seaport - State\u0027])[1]/preceding::nz-select-item[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CreateRFI/ServiceInfo/CapacityAndServices/Origin_itm_Country_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CreateRFI/ServiceInfo/CapacityAndServices/Origin_itm_Country",
+      "brokenLocator": "//div[@class\u003d\u0027ant-select-item-option-content\u0027][normalize-space()\u003d\u0027${OriginCountry}\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u0027Australia\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CreateRFI/ServiceInfo/CapacityAndServices/Origin_itm_Country_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CreateRFI/ServiceInfo/CapacityAndServices/Origin_ddl_CodeSea",
+      "brokenLocator": "//div[@class\u003d\u0027ant-row ant-row-space-between\u0027]//div[@class\u003d\u0027ant-col ant-col-12 ng-star-inserted\u0027][1]//nz-select-top-control[starts-with(@class,\u0027ant-select-selector\u0027) and .//*[contains(normalize-space(),\u0027Select Code - Seaport\u0027)]]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Country\u0027])[2]/preceding::nz-select[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CreateRFI/ServiceInfo/CapacityAndServices/Origin_ddl_CodeSea_neighbor.png"
+    }
+  ]
 }
